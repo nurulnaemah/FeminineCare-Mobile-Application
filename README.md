@@ -5,19 +5,19 @@ FeminineCare is an academic mobile healthcare application prototype designed to 
 This project focuses on creating an interactive healthcare application prototype that provides personalized recommendations and supports user decision-making through basic artificial intelligence concepts.
 
 ## Features
-Mobile-friendly healthcare interface
-Personalized recommendation concept
-User-centered UI/UX design
-Health tracking and informational features
-Interactive application workflow
+- Mobile-friendly healthcare interface
+- Personalized recommendation concept
+- User-centered UI/UX design
+- Health tracking and informational features
+- Interactive application workflow
 
 ## Concepts Applied
-Probabilistic reasoning
-Artificial intelligence concepts
-System analysis and design
-Mobile application workflow
+- Probabilistic reasoning
+- Artificial intelligence concepts
+- System analysis and design
+- Mobile application workflow
 
 ## Tools Used
-Canva
-UI/UX Design Concepts
-Artificial Intelligence Concepts
+- Canva
+- UI/UX Design Concepts
+- Artificial Intelligence Concepts
